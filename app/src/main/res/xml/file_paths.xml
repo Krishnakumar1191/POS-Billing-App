@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Root external storage path required for public Documents/POSAPP/ folder -->
+    <external-path name="external" path="." />
+    <external-files-path name="external_files" path="." />
+    <cache-path name="cache_files" path="." />
+</paths>

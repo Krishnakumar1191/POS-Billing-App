@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.POSAPP" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Disable OEM forced dark mode (like MIUI/Realme) which aggressively inverts colors -->
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
